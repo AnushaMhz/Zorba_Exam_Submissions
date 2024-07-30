@@ -1,0 +1,10 @@
+1. D. Better performance
+2. C. Prevents SQL injection
+3. D. never commits transaction
+4. A. rollback()
+5. sql and javax.sql
+6. B) i, iii, ii, v, iv, vii, vi, viii
+7. C. executeUpdate()
+8. D) Both b and c
+9. B) Prepared Statement
+10. C) Statements, ResultSet, and then Connection
